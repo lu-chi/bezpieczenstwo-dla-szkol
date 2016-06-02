@@ -57,10 +57,10 @@
 5.  Czy wirusy to jakis sposob hakowania?
 6.  Jaka szkole pan skonczyl?
 7.  Jakie sa konsekwencje wykorzystywania cudzych danych w sieci?
-    * [1] (https://www.youtube.com/watch?v=CLRBYhd7e4Q&index=73&list=WL)
+    * [fb stalking?] (https://www.youtube.com/watch?v=CLRBYhd7e4Q&index=73&list=WL)
     * [firesheep] (https://codebutler.github.io/firesheep/)
-8.  Wiecej info o Samsungach galaxy i syst. android.
-    * [1] (http://zawszeczujni.blogspot.be/2015/11/vts-darmowe-narzedzie-ktore-wykryje.html)
+8.  Wiecej informacji o Androidzie:
+    * [podatnosci w androidzie] (http://zawszeczujni.blogspot.be/2015/11/vts-darmowe-narzedzie-ktore-wykryje.html)
 9. Jak dostac sie do pracy w instytucjach miedzynarodowych: UE, ONZ, NATO lub bankach?
 10. Jak hackowac za pomoca telefonu?
 11. Co w ten sposobozna osiagnac?
