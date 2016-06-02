@@ -57,7 +57,7 @@
 5.  Czy wirusy to jakis sposob hakowania?
 6.  Jaka szkole pan skonczyl?
 7.  Jakie sa konsekwencje wykorzystywania cudzych danych w sieci?
-    * [fb stalking?] (https://www.youtube.com/watch?v=CLRBYhd7e4Q&index=73&list=WL)
+    * [social media stalking?] (https://www.youtube.com/watch?v=CLRBYhd7e4Q&index=73&list=WL)
     * [firesheep] (https://codebutler.github.io/firesheep/)
 8.  Wiecej informacji o Androidzie:
     * [podatnosci w androidzie] (http://zawszeczujni.blogspot.be/2015/11/vts-darmowe-narzedzie-ktore-wykryje.html)
